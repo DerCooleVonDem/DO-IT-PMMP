@@ -1,0 +1,35 @@
+---
+#-----------------------[Config by DerCooleVonDem]-----------------------
+#
+#-----------------------[𝓓𝓞𝓘𝓣 𝓫𝔂 𝓓𝓮𝓻𝓒𝓸𝓸𝓵𝓮𝓥𝓸𝓷𝓓𝓮𝓶 2021]-----------------
+#
+#
+#
+#
+# {command} = The Command Name which was executed.
+# The Message will appear when the Command user doesn't have the Permission to use it.
+#no-permission-message: "§cSorry, but you dont have the Permission to use {command}!"
+#
+# {command} = The Command which was executed for Everyone.
+# When someone executed [/everyone <command>] then this message will appear for him.
+#everyone-message: "§a{command} was successfully executed for EVERYONE"
+#
+# {command} = The Command which was executed for {victim}.
+# {victim} = The user for whom the command was executed.
+# When someone executed [/run <victim> <command>] then this message will appear for him.
+#run-message: "§a{command} was successfully executed for {victim}"
+#
+# {command} = The Command which was executed for the Console.
+# When someone executed [/console <command>] then this message will appear for him.
+#console-message: "§a{command} was successfully executed for the Console"
+#
+# {command} = The Command which was executed for the Console.
+# When someone executed [/others <command>] then this message will appear for him.
+#others-message: "§a{command} was successfully executed for everyone but you"
+#
+# Any Problems with the Plugin?
+# Send me a friend request above Discord and write me!
+# Discord: DerCooleVonDem#9991
+#
+#
+...

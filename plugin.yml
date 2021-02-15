@@ -1,0 +1,25 @@
+name: "Do-It"
+main: derc\doit\main
+version: 1.0.5
+api: 3.0.0
+description: "Doit do simple what thee Name says: DO something for Someone and the Console. Its helpful for Server Moderators and Developers!"
+commands:
+  everyone:
+    description: "Runs a command for everyone"
+  run:
+    description: "Runs a command for someone"
+  console:
+    description: "Runs a command above the Console"
+  others:
+    description: "Runs a command for everyone, but not for you"
+permissions:
+  doit.*:
+    description: "Allows the User to Run every command from DO-IT"
+  doit.everyone:
+    description: "Allows the User to Run [/everyone] command from DO-IT"
+  doit.run:
+    description: "Allows the User to Run [/run] command from DO-IT"
+  doit.console:
+    description: "§c§lAbuse Warning!§r Allows the User to Run [/console] command from DO-IT"
+  doit.others:
+    description: "Allows the User to Run [/others] command from DO-IT"
